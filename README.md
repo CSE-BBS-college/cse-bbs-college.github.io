@@ -1,3 +1,3 @@
 # website
 
- [Live here] (https://20cs-bbs.tech)
+ [Live here](https://20cs-bbs.tech)
