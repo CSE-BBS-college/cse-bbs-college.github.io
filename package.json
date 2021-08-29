@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CSE-BBS-college/cse-bbs-college.github.io#readme",
   "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
     "autoprefixer": "^10.3.3",
     "parcel": "^2.0.0-rc.0",
     "postcss": "^8.3.6",
