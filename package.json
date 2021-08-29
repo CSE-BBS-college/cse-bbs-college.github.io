@@ -4,7 +4,8 @@
   "description": "This is the webpage the 2020 CSE batch of BBS college of Engineering",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/CSE-BBS-college/cse-bbs-college.github.io#readme",
   "devDependencies": {
     "autoprefixer": "^10.3.3",
+    "parcel": "^2.0.0-rc.0",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.8"
   }
